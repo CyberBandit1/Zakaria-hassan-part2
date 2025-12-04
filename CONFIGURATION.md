@@ -1,6 +1,6 @@
 
 # Configuracion de NextCloud
-![Text alternatiu](fotoonou222.png)
+![Text alternatiu](primer paso.png)
 
 ### Para subir un archivo en NextCloud primero de todo tienes que hacer es darle a "new" luego de eso selecciona "Upload Files" se te abrira la carpeta, luego de ahi seleccionas el archivo que quieres subir, siguiendo estos pasos tendras tu archivo en NextCloud.
 
