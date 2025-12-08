@@ -1,8 +1,10 @@
 
 # Configuracion de NextCloud
-![Text alternatiu](primerpaso.png)
+![Text alternatiu](https://github.com/CyberBandit1/Zakaria-hassan-part2/blob/e6e0730777b67437d72846823963007e999c4e9a/primer%20paso.png)
 
 ### Para subir un archivo en NextCloud primero de todo tienes que hacer es darle a "new" luego de eso selecciona "Upload Files" se te abrira la carpeta, luego de ahi seleccionas el archivo que quieres subir, siguiendo estos pasos tendras tu archivo en NextCloud.
+
+![Text alternatiu](https://github.com/CyberBandit1/Zakaria-hassan-part2/blob/e6e0730777b67437d72846823963007e999c4e9a/2%20paso.png)
 
 ![Text alternatiu](fotoonou2.png)
 # Creación de carpeta en NextCloud
