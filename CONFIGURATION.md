@@ -43,11 +43,11 @@
 # Organització de carpetes i fitxers
 ### He creado esta carpeta llamada "Documents Personals" para organizar me mejor los documentos.
 
-![Text alternatiu](ffotonou19.png)
+![Text alternatiu](https://github.com/CyberBandit1/Zakaria-hassan-part2/blob/21a1924b3c102800ed67fb1b99ffc0c51d8d6214/Screenshot%202025-12-09%20202939.png)
 
 ### dentro de "Documents Personals" he creat dos nuevas carpetas llamadas "Tarjeta de salud" y "Dni"
 
-![Text alternatiu](ffotonou20.png)
+![Text alternatiu](https://github.com/CyberBandit1/Zakaria-hassan-part2/blob/21a1924b3c102800ed67fb1b99ffc0c51d8d6214/Screenshot%202025-12-09%20203006.png)
 
 # Polítiques de seguretat
 
