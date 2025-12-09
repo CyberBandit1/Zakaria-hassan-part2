@@ -24,20 +24,20 @@
 ![Text alternatiu](https://github.com/CyberBandit1/Zakaria-hassan-part2/blob/ace793283052e9d92b7b81dead180de446b3db36/2rst.png)
 
 # Creación de usuarios
-![Text alternatiu](ffotonou11.png)
+![Text alternatiu](https://github.com/CyberBandit1/Zakaria-hassan-part2/blob/d58ba2c7fc149d04375abd1e2430a05d4c7da201/usu1.png)
 ### Para crear nuevos usuarios en NextCloud tenemos que hacer un Click a nuestro perfil, y luego de eso ir a "accounts"
 
-![Text alternatiu](ffotonou12.png)
+![Text alternatiu](https://github.com/CyberBandit1/Zakaria-hassan-part2/blob/d58ba2c7fc149d04375abd1e2430a05d4c7da201/usu2.png)
 ### Aqui tenemos que hacer click a "New account"
 
-![Text alternatiu](ffotonou13.png)
+![Text alternatiu](https://github.com/CyberBandit1/Zakaria-hassan-part2/blob/a1182a3d0a68bfffc2084067b3b90f8b8656b789/creaci%C3%B3%20usuaris.png)
 ### Ahora rellenamos esto y ya tendremos nuestro primer usuario hecho. Tenemos que hacer lo mismo para hacer otros usuarios.
 
 # Permiso de usuario
-![Text alternatiu](ffotonou14.png)
+![Text alternatiu](https://github.com/CyberBandit1/Zakaria-hassan-part2/blob/d58ba2c7fc149d04375abd1e2430a05d4c7da201/usu3.png)
 ### Para poner permiso a un archivo tenemos que dar al boton de compartir y luego buscar aqui visualitzador, editor y admin. y ponemos permiso que pertenece a cada usuario.
 
-![Text alternatiu](ffotonou15.png)
+![Text alternatiu](https://github.com/CyberBandit1/Zakaria-hassan-part2/blob/d58ba2c7fc149d04375abd1e2430a05d4c7da201/usu4.png)
 ### Le damos a esta flechita y seleccionamos los permisos que queremos poner, haciendo esto tendremos los permisos puestos.
 
 # Assignació de rols i permisos
