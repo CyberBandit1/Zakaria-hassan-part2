@@ -17,11 +17,11 @@
 # Creación de Link para compartir
 ### Para hacer un Link en NextCloud tenemos que hacer un click al logo de una persona con un plus alado del archivo (como mostrado en la imagen)
 
-![Text alternatiu](https://github.com/CyberBandit1/Zakaria-hassan-part2/blob/0b6b565c05fc1e62dd7e05ffcad970f580a3c357/1er%20paso.png)
+![Text alternatiu](https://github.com/CyberBandit1/Zakaria-hassan-part2/blob/ace793283052e9d92b7b81dead180de446b3db36/1rst.png)
 
 ### Luego de eso te saldran opciones de compartir, selecionamos "Create public Link" eso creara un link al archivo, y cualquier persona con el link podra acceder lo.
 
-![Text alternatiu](fotonou66.png)
+![Text alternatiu](https://github.com/CyberBandit1/Zakaria-hassan-part2/blob/ace793283052e9d92b7b81dead180de446b3db36/2rst.png)
 
 # Creación de usuarios
 ![Text alternatiu](ffotonou11.png)
