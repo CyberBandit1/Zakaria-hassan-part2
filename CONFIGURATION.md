@@ -32,3 +32,56 @@
 
 ![Text alternatiu](ffotonou13.png)
 ### Ahora rellenamos esto y ya tendremos nuestro primer usuario hecho. Tenemos que hacer lo mismo para hacer otros usuarios.
+
+# Permiso de usuario
+![Text alternatiu](ffotonou14.png)
+### Para poner permiso a un archivo tenemos que dar al boton de compartir y luego buscar aqui visualitzador, editor y admin. y ponemos permiso que pertenece a cada usuario.
+
+![Text alternatiu](ffotonou15.png)
+### Le damos a esta flechita y seleccionamos los permisos que queremos poner, haciendo esto tendremos los permisos puestos.
+
+# Assignació de rols i permisos
+
+***Administrador (Admin)***
+
+- Tiene acceso total.
+- Puede crear, editar y borrar cualquier archivo.
+- Puede gestionar usuarios y roles.
+- Puede configurar ajustes del sistema o del archivo.
+- Es el rol con mayor nivel de control.
+
+***Editor***
+
+- Puede crear, modificar y borrar archivos.
+- Puede publicar o actualizar archivos existentes.
+- No puede gestionar usuarios ni configuraciones del sistema.
+- Su trabajo se centra en el contenido, no en la administración.
+
+***Visualizador***
+
+- Solo puede ver y consultar el contenido.
+- No puede editar, borrar ni crear archivos.
+- Tampoco puede acceder a configuraciones ni gestión de usuarios.
+- Es un rol solo de lectura.
+
+# L’efecte dels permisos
+![Text alternatiu](ffotonou17.png)
+### Cuando inicio session como visualitzador en NextCloud en el apartado de compartir no me sale que permiso tiene cada uno, Pero cuando inicio session como editor o admin si me sale los permisos que tiene
+![Text alternatiu](ffotonou18.png)
+
+# Organització de carpetes i fitxers
+### He creado esta carpeta llamada "Documents Personals" para organizar me mejor los documentos.
+![Text alternatiu](ffotonou19.png)
+### Y dentro de "Documents Personals" he creat dos nuevas carpetas llamadas "Tareas" y "DNI"
+![Text alternatiu](ffotonou20.png)
+
+# Polítiques de seguretat
+![Text alternatiu](ffotonou22.png)
+
+### Primero hacemos clic en “Create public link” y luego pulsamos en los tres puntos que aparecen junto a “share link”. A continuación, seleccionamos “Customize link”, donde añadiremos una contraseña y una fecha de vencimiento. De esta forma, cualquiera que reciba el enlace de nuestra carpeta necesitará introducir la contraseña para entrar, y el enlace dejará de ser válido una vez llegue la fecha que hayamos establecido.
+
+![Text alternatiu](ffotonou23.png)
+
+# Acceso desde cualquier equipo de la red local
+
+### Para permitir el acceso a Nextcloud desde otro dispositivo distinto a la máquina virtual, es necesario que el servidor de Nextcloud sea accesible dentro de la red local. Esto implica conocer la dirección IP de la máquina virtual, asegurarse de que el servidor web (Apache o Nginx) está activo y que los puertos necesarios (80 para HTTP o 443 para HTTPS) estén abiertos. Una vez hecho esto, cualquier dispositivo conectado a la misma red puede acceder a Nextcloud escribiendo la IP de la máquina virtual en el navegador.
