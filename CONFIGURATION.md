@@ -8,10 +8,11 @@
 
 # Creación de carpeta en NextCloud
 
-![Text alternatiu](fotoonou222.png)
+![Text alternatiu](https://github.com/CyberBandit1/Zakaria-hassan-part2/blob/f21fdd3ef4015d564bd6bfdbd235e707fd3736a3/C%C3%B2pia%20de%20primer%20paso.png)
+
 ### Para crear una carpeta en NetCloud tienes que hacer click al "new" otra vez, luego de eso tienes que hacer click en "New folder" luego de eso pones un nombre cualquiera a tu carpeta y ya tendras tu carpeta hecha en NextCloud
 
-![Text alternatiu](fotoonou44.png)
+![Text alternatiu](https://github.com/CyberBandit1/Zakaria-hassan-part2/blob/f21fdd3ef4015d564bd6bfdbd235e707fd3736a3/2a%20parte.png)
 
 # Creación de Link para compartir
 ### Para hacer un Link en NextCloud tenemos que hacer un click al logo de una persona con un plus alado del archivo (como mostrado en la imagen)
