@@ -45,16 +45,13 @@
 
 ![Text alternatiu](ffotonou19.png)
 
-### Y dentro de "Documents Personals" he creat dos nuevas carpetas llamadas "Tareas" y "DNI"
+### dentro de "Documents Personals" he creat dos nuevas carpetas llamadas "Tarjeta de salud" y "Dni"
 
 ![Text alternatiu](ffotonou20.png)
 
 # Polítiques de seguretat
-![Text alternatiu](ffotonou22.png)
 
 ### Primero hacemos clic en “Create public link” y luego pulsamos en los tres puntos que aparecen junto a “share link”. A continuación, seleccionamos “Customize link”, donde añadiremos una contraseña y una fecha de vencimiento. De esta forma, cualquiera que reciba el enlace de nuestra carpeta necesitará introducir la contraseña para entrar, y el enlace dejará de ser válido una vez llegue la fecha que hayamos establecido.
-
-![Text alternatiu](ffotonou23.png)
 
 # Acceso desde cualquier equipo de la red local
 
